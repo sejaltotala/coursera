@@ -12,15 +12,15 @@
 // on the console should look like this:
 /*
 Hello Taylor
-Goodbye John
-Goodbye Jen
-Goodbye Jason
+Good Bye John
+Good Bye Jen
+Good Bye Jason
 Hello Paul
 Hello Frank
 Hello Larry
 Hello Paula
 Hello Laura
-Goodbye Jim
+Good Bye Jim
 
 WARNING!!! WARNING!!!
 The code does NOT currently work! It is YOUR job to make it work
